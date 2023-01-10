@@ -1,9 +1,6 @@
 import os
 
-#file extensions
-exe_str = "exe"
-pdf_str = "pdf"
-excel_str = "xlsx"
+# Variables
 file = '.\data.txt'
 
 def main():

@@ -1,3 +1,2 @@
-C:\\Users\\mtycz\\AppData\\Local\\gb_studio\\gb-studio.exe
-start C:\\Users\\mtycz\\Desktop\\test.xls
-C:\\Users\\mtycz\\Downloads\\oświadczenie.pdf
+start "" "C:\Users\mtycz\Documents\My Games"
+start C:\Users\mtycz\Documents
