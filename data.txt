@@ -1,2 +1,3 @@
-start "" "C:\Users\mtycz\Documents\My Games"
+start "" "C:\\Users\\mtycz\\Documents\\My Games"
 start C:\Users\mtycz\Documents
+start https://www.gbstudio.dev/
