@@ -4,18 +4,29 @@ import webbrowser
 
 # open excel files
 def open_excel(path: str):
-    subprocess.Popen([path], shell=True)
+    try:
+        subprocess.Popen([path], shell=True)
+    except:
+        print('Excel file is not available')
 
 # open web apps
 def open_web(path: str):
-    webbrowser.open(path)
+    try:
+        webbrowser.open(path)
+    except:
+        print('web page is not available')
 
 # open exe apps
 def open_exe(path: str):
-    subprocess.Popen(path)
+    try:
+        subprocess.Popen(path)
+    except:
+        print('exe file is not available')
 
 # open folders
 def open_folder(path: str):
-    os.startfile(path)
+    try:
+        os.startfile(path)
+    except:
+        print('Folder path is not available')
 
-    

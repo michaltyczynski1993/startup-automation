@@ -1,3 +1,4 @@
-start "" "C:\\Users\\mtycz\\Documents\\My Games"
-start C:\Users\mtycz\Documents
-start https://www.gbstudio.dev/
+C:\\Users\mtycz\\Desktop\\Zdjęcia i video ze ślubu\\test.xls
+https://trello.com/b/SupRkAvY/windows-opener-python
+C:\\Program Files\\Tiled\\tiled.exe
+C:\\Users\\mtycz\\Documents\\Gb Studio Games
