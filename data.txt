@@ -1,4 +1,4 @@
 C:\\Users\mtycz\\Desktop\\Zdjęcia i video ze ślubu\\test.xls
 https://trello.com/b/SupRkAvY/windows-opener-python
 C:\\Program Files\\Tiled\\tiled.exe
-C:\\Users\\mtycz\\Documents\\Gb Studio Games
+start "" "C:\Users\mtycz\Documents\Gb Studio Games"

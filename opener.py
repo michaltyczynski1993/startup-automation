@@ -26,7 +26,7 @@ def open_exe(path: str):
 # open folders
 def open_folder(path: str):
     try:
-        os.startfile(path)
+        os.system(path)
     except:
         print('Folder path is not available')
 
